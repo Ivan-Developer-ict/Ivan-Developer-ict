@@ -1,6 +1,6 @@
 <div align="center">
 
-# Iván Esteban Peña Roldán
+# Iván Peña
 
 **Junior Data Analyst · Financial & Accounting Analysis · International Accounting & Finance**
 
